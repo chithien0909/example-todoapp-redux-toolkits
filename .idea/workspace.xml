@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="701cc8a1-03b9-4d53-816a-92eccbee1de3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.prettierrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Input.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoFilter.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoFilter.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoInput.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoItem.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoItem.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoList.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Todo/todo.slice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/Todo/todo.slice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +42,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616340257224</updated>
-      <workItem from="1616340260955" duration="833000" />
+      <workItem from="1616340260955" duration="1027000" />
+      <workItem from="1616341294164" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
