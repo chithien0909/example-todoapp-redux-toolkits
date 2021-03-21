@@ -31,7 +31,10 @@ const todoReducer = {
         }
     },
     [deleteTodo]: (state, action) => {
-        return state;
+        return {
+            ...state,
+            todoList: state.todoList.filter(item => item.id !== action.payload)
+        };
     }
 
 

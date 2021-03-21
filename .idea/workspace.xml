@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="701cc8a1-03b9-4d53-816a-92eccbee1de3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todo/TodoItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo/TodoItem.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todo/TodoItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo/TodoItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todo/TodoList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo/TodoList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Todo/todo.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/Todo/todo.reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +37,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616340257224</updated>
       <workItem from="1616340260955" duration="1027000" />
-      <workItem from="1616341294164" duration="29000" />
+      <workItem from="1616341294164" duration="1022000" />
     </task>
     <servers />
   </component>
