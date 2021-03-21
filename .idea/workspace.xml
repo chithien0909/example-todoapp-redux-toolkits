@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="701cc8a1-03b9-4d53-816a-92eccbee1de3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Todo/TodoItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo/TodoItem.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Todo/TodoItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo/TodoItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Todo/TodoList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo/TodoList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/Todo/todo.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/Todo/todo.reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todo/TodoInput.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo/TodoInput.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616340257224</updated>
       <workItem from="1616340260955" duration="1027000" />
-      <workItem from="1616341294164" duration="1022000" />
+      <workItem from="1616341294164" duration="1137000" />
     </task>
     <servers />
   </component>

@@ -1,7 +1,10 @@
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
+import { nanoid } from '@reduxjs/toolkit';
+
 import { addTodo } from '@features/Todo/todo.action';
 import './TodoInput.css';
+
 
 function Input() {
     const [input, setInput] = useState("");
@@ -14,7 +17,7 @@ function Input() {
         dispatch(addTodo({
             item: input,
             done: false,
-            id: Date.now()
+            id: nanoid()
         }))
         setInput('');
     }
