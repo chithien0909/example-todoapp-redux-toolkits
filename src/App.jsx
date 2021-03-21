@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import TodoInput from '@components/TodoInput';
-import TodoList from '@components/TodoList';
-import TodoFilter from '@components/TodoFilter';
+import TodoInput from '@components/Todo/TodoInput';
+import TodoList from '@components/Todo/TodoList';
+import TodoFilter from '@components/Todo/TodoFilter';
 
 function App() {
   return (

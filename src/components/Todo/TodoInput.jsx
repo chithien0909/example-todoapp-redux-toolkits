@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import './Input.css';
 import { useDispatch } from 'react-redux';
-import  { saveTodo } from '@features/Todo/todo.slice'
+import { addTodo } from '@features/Todo/todo.action';
+import './TodoInput.css';
 
 function Input() {
     const [input, setInput] = useState("");
@@ -9,9 +9,9 @@ function Input() {
     const handleChangeInput = (e) => {
         setInput(e.target.value);
     }
-    const addTodo = (e) => {
+    const saveTodo = (e) => {
         e.preventDefault();
-        dispatch(saveTodo({
+        dispatch(addTodo({
             item: input,
             done: false,
             id: Date.now()
@@ -19,7 +19,7 @@ function Input() {
         setInput('');
     }
     return (
-        <form  className='input' onSubmit={addTodo}>
+        <form  className='input' onSubmit={saveTodo}>
             <input
                 className="form-input"
                 value={input}
