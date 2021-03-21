@@ -2,10 +2,9 @@ import React from 'react';
 import { Checkbox } from '@material-ui/core';
 import './TodoItem.css'
 import { useDispatch } from 'react-redux';
-import  { setCheck } from '../features/Todo/slice'
+import  { setCheck } from '@features/Todo/todo.slice'
 function TodoItem({todo}) {
     const { id, item: name, done } = todo;
-    console.log(id)
     const dispatch = useDispatch()
     const handleCheck = () => {
         dispatch(setCheck(id))

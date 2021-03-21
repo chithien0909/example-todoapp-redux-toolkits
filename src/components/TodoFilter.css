@@ -1,0 +1,22 @@
+.btn {
+    padding: 5px 20px;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 20px 5px;
+}
+.btn-done{
+    background-color: rgb(13, 119, 13);
+}
+.btn-all {
+    background-color: rgb(12, 12, 212);
+}
+.btn-undone {
+    background-color: gray;
+}
+.btn.disable{
+    opacity: .2;
+}
